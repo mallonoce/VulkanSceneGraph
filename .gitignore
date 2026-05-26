@@ -84,4 +84,5 @@ DerivedData/
 include/glslang
 src/vsg/CHANGES.md
 src/vsg/vsgTargets.cmake
-
+*.txt.user
+*.txt.user.*
